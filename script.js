@@ -6,6 +6,7 @@ var container = document.createElement('div');          //create parent containe
 
 //function to add a new box to container
 function addBox(){
+    console.log('it worked');
     var box = document.createElement('div');
     box.className = 'box';
     box.id = document.getElementsByClassName('box').length;
@@ -40,5 +41,5 @@ function addBox(){
 document.addEventListener('DOMContentLoaded', function(){
     document.body.appendChild(btn);
     document.body.appendChild(container);
-    btn.addEventListener('click', addBox());
+    btn.addEventListener('click', addBox);
 });
