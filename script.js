@@ -6,7 +6,6 @@ var container = document.createElement('div');          //create parent containe
 
 //function to add a new box to container
 function addBox(){
-    console.log('it worked');
     var box = document.createElement('div');
     box.className = 'box';
     box.id = document.getElementsByClassName('box').length;
