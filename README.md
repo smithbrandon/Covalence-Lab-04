@@ -1,4 +1,6 @@
 # Lab 04: DOM DOM DOMMMMMMM!
+## [Demo Link](https://smithbrandon.github.io/Covalence-Lab-04/)
+
 ## Due: Friday, June 2nd, 09:00
 ##### Covalence 
 ###### Full Stack: Summer 2017
